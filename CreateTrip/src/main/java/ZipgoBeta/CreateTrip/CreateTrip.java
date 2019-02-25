@@ -304,6 +304,7 @@ else {
 		// send the email
 		email.send();
 		System.out.println("Sent!");
+		//Commit Test
 	}
 	
 
